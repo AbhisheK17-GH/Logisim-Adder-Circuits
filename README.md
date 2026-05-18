@@ -313,26 +313,5 @@ Full adders are chained together to form:
 * **Parallel Adders**
 * **Arithmetic Logic Units**
 
----
-
-# Possible Extensions
-
-To extend this project, you can implement:
-
-* **4-bit Ripple Carry Adder**
-* **8-bit Binary Adder**
-* **Subtractor using 2's complement**
-* **Arithmetic Logic Unit (ALU)**
 
 ---
-
-# Author
-
-Kilavi Musyoki  
-Telecommunications and Information Engineering
-
----
-
-# License
-
-This project is open for academic and educational use.
